@@ -1,3 +1,3 @@
 # Toya
 
-### This is the Code for our Game <3!
+### This is the Code and Demo for our Game <3!
